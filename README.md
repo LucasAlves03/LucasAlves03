@@ -1,4 +1,4 @@
-# Hi 👋 I'm Lucas, Computer science student.
+# Hi 👋 I'm Lucas, a Computer Science student.
 I’m currently learning React Native
 
 ## Technologies
