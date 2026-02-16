@@ -1,8 +1,8 @@
-# Hi 👋 I'm Lucas, computer science student.
+# Hi 👋 I'm Lucas, Computer science student.
 I’m currently learning React Native
 
 ## Technologies
 ![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,git,mysql,python,gitlab)
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=LucasAlves03&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=LucasAlves03&show_icons=true&theme=tokyonight)
