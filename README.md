@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi 👋 I'm Lucas
 
 <!--
 **LucasAlves03/LucasAlves03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Technologies
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,git,github,mysql,python
+
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=LucasAlves03&show_icons=true&theme=dark)
