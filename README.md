@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Technologies
-![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,git,github,mysql,python
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,git,github,mysql,python)
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=LucasAlves03&show_icons=true&theme=dark)
